@@ -1,0 +1,21 @@
+# Compilados de Java
+*.class
+
+# Archivos de NetBeans
+nbproject/
+build/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
